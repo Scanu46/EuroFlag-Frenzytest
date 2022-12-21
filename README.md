@@ -1,0 +1,2 @@
+# EuroFlag-Frenzytest
+test
